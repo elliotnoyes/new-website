@@ -1,4 +1,4 @@
-Personal website for Henry Noyes
+Personal website for Elliot Noyes
 
 
 
