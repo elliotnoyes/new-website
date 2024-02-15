@@ -1,0 +1,59 @@
+{
+  "date": "2024-07-03",
+  "category": "Small Projects",
+  "title": "Dovetailed Planter Box",
+  "description": "description",
+  "coverImage": "/images/projects/small_projects/planter/F1.jpeg",
+  "grid": "grid-cols-4",
+  "imageList": [
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/small_projects/planter/F1.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/small_projects/planter/F2.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/small_projects/planter/F3.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/small_projects/planter/F4.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/small_projects/planter/F5.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/small_projects/planter/F6.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    }
+  ]
+  
+}

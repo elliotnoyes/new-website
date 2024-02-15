@@ -7,7 +7,7 @@ import Button from "../Button";
 import Image from "next/image";
 import { slide } from "../../animations";
 
-const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll}) => {
+const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
   const router = useRouter();
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
@@ -17,7 +17,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
   }, []);
 
   useIsomorphicLayoutEffect(() => {
-    slide(".sliding", 430);
+    slide(".sliding", 350);
   }, []);
 
   return (
@@ -36,7 +36,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
                     {mounted && (
                       <Image
                       alt="rover"
-                      src="/images/header/scaled-pixel-cobra.png"
+                      src="/images/header/scaled-plane-w.png"
                       width={71}
                       height={55}
                       ></Image>
@@ -47,7 +47,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
                   {mounted && (
                     <Image
                     alt="rover"
-                    src="/images/header/pixel-persy.png"
+                    src="/images/header/scaled-plane-b.png"
                     width={71}
                     height={55}
                     ></Image>
@@ -102,7 +102,6 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
                 </Button>
                 <Button onClick={handleAboutScroll} type="header">About</Button>
                 <Button onClick={handleWorkScroll} type="header">Work</Button>
-                <Button onClick={handleProjectScroll} type="header">Projects</Button>
               </div>
             </Popover.Panel>
           </>
@@ -119,7 +118,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-pixel-cobra.png"
+                src="/images/header/scaled-plane-w.png"
                 width={71}
                 height={55}
                 ></Image>
@@ -130,7 +129,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/pixel-persy.png"
+              src="/images/header/scaled-plane-b.png"
               width={71}
               height={55}
               ></Image>
@@ -143,7 +142,6 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll, handleProjectScroll
           </Button>
           <Button onClick={handleAboutScroll} type="header">About</Button>
           <Button onClick={handleWorkScroll} type="header">Work</Button>
-          <Button onClick={handleProjectScroll} type="header">Projects</Button>
 
           {mounted && theme && (
             <Button

@@ -169,10 +169,10 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@fontsource/bungee-hairline@^5.0.18":
-  version "5.0.18"
-  resolved "https://registry.yarnpkg.com/@fontsource/bungee-hairline/-/bungee-hairline-5.0.18.tgz#7f7a270f61e59692ae2f0dedf602ac62b376bd5f"
-  integrity sha512-d2Rso9NOQ29TrEjHoG6LFOssewkmBSYGwGiN6S1nw/ZgeisbpDnKK6mzNPsXFSBSrDFsfwHn7SWVRaQ0ZJjVlA==
+"@fontsource/league-mono@^5.0.7":
+  version "5.0.7"
+  resolved "https://registry.yarnpkg.com/@fontsource/league-mono/-/league-mono-5.0.7.tgz#e9dfaf127606ffaa56d10f982c5e3def6cb56062"
+  integrity sha512-SxZMg4RpzpLVwSLfSbHfjF1q9JJPidzcDxmoTNqrKLtTXj1X6Actw+QQ8yNDm9BALLvJGk3OaXg2+uu1HOMPlg==
 
 "@fontsource/libre-caslon-text@^5.0.18":
   version "5.0.18"

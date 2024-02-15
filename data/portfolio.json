@@ -1,43 +1,53 @@
 {
-  "name": "Henry Noyes",
+  "name": "Elliot Noyes",
   "work": [
     {
       "id": "1",
-      "title": "Robotics Engineer – RIVeR Lab",
-      "imageSrc": "/images/work/river/anno.jpg",
-      "url": "/river"
+      "title": "Furniture",
+      "imageSrc": "/images/covers/furniture.jpeg",
+      "url": "/furniture"
     },
     {
       "id": "2",
-      "title": "Electrical Lead – COBRA",
-      "imageSrc": "/images/work/cobra/desert.png",
-      "url": "/cobra"
+      "title": "Built-ins",
+      "imageSrc": "/images/covers/builtin.jpeg",
+      "url": "/built-ins"
     },
     {
       "id": "3",
-      "title": "Plasma Engineer – MAAT Energy",
-      "imageSrc": "/images/work/maat/plasma.jpg",
-      "url": "/maat"
-    }
-  ],
-  "projects": [
-    {
-      "id": "1",
-      "title": "JARVIS-GPT",
-      "imageSrc": "/images/projects/jarvis_logo.png",
-      "url": "https://github.com/henrynoyes/jarvis-gpt"
+      "title": "Cabinetry",
+      "imageSrc": "/images/covers/cabinetry.jpeg",
+      "url": "/cabinetry"
     },
     {
-      "id": "2",
-      "title": "Birdcam",
-      "imageSrc": "/images/projects/squint_static.png",
-      "url": "https://github.com/henrynoyes/birdcam"
+      "id": "4",
+      "title": "Restorations",
+      "imageSrc": "/images/covers/restoration.jpeg",
+      "url": "/restorations"
     },
     {
-      "id": "3",
-      "title": "ColorkuConvert",
-      "imageSrc": "/images/projects/colorku.png",
-      "url": "https://github.com/henrynoyes/ColorkuConvert"
+      "id": "5",
+      "title": "Construction",
+      "imageSrc": "/images/covers/construction.jpeg",
+      "url": "/construction"
+    },
+    {
+      "id": "6",
+      "title": "Millwork",
+      "imageSrc": "/images/covers/millwork.jpeg",
+      "url": "/millwork"
+    },
+    {
+      "id": "7",
+      "title": "Small Projects",
+      "imageSrc": "/images/covers/smallproj.jpeg",
+      "url": "/small-projects"
+    },
+    {
+      "id": "8",
+      "title": "In Progress",
+      "imageSrc": "/images/covers/inprogress.jpeg",
+      "url": "/in-progress"
     }
   ]
 }

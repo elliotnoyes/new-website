@@ -32,7 +32,7 @@ const SimplePageHeader = () => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-pixel-cobra.png"
+                src="/images/header/scaled-plane-w.png"
                 width={71}
                 height={55}
                 ></Image>
@@ -43,7 +43,7 @@ const SimplePageHeader = () => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/pixel-persy.png"
+              src="/images/header/scaled-plane-b.png"
               width={71}
               height={55}
               ></Image>
@@ -84,7 +84,7 @@ const SimplePageHeader = () => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-pixel-cobra.png"
+                src="/images/header/scaled-plane-w.png"
                 width={71}
                 height={55}
                 ></Image>
@@ -95,7 +95,7 @@ const SimplePageHeader = () => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/pixel-persy.png"
+              src="/images/header/scaled-plane-b.png"
               width={71}
               height={55}
               ></Image>

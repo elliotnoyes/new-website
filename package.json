@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@fontsource/bungee-hairline": "^5.0.18",
+    "@fontsource/league-mono": "^5.0.7",
     "@fontsource/libre-caslon-text": "^5.0.18",
     "@fontsource/montserrat": "^5.0.16",
     "@fontsource/source-sans-pro": "^5.0.8",

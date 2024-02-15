@@ -17,7 +17,7 @@ module.exports = {
         librecaslon: ["Libre Caslon Text", "sans-serif"],
         ubuntu: ["Ubuntu", "sans-serif"],
         mont: ["Montserrat Variable", "sans-serif"],
-        bungee: ["Bungee Hairline", "sans-serif"]
+        letter: ["League Mono", "sans-serif"]
       }
     },
   },

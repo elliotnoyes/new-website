@@ -1,0 +1,139 @@
+{
+  "date": "2024-01-04",
+  "category": "Furniture",
+  "title": "Sewing Table",
+  "description": "description",
+  "coverImage": "/images/projects/furniture/sewing_table/A1.jpeg",
+  "grid": "grid-cols-4",
+  "imageList": [
+    {
+      "id": 1,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall1.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 2,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall2.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 3,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall3.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 4,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall4.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 5,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall5.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 6,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall6.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 7,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall7.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 8,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall9.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 9,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall10.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 10,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall11.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 11,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall12.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 12,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/tall13.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 13,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/custom1.jpeg",
+      "AR_src": 0.58,
+      "w_disp": 1,
+      "h_disp": 1.72
+    },
+    {
+      "id": 14,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/wide1.jpeg",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 15,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/wide2.jpeg",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 16,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/wide3.jpeg",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    }
+  ]
+  
+}

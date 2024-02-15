@@ -1,0 +1,43 @@
+{
+  "date": "2024-01-02",
+  "category": "Furniture",
+  "title": "Floating Bed",
+  "description": "description",
+  "coverImage": "/images/projects/furniture/floating_bed/D1.jpeg",
+  "grid": "grid-cols-2",
+  "imageList": [
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/furniture/floating_bed/D2.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/furniture/floating_bed/D4.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/furniture/floating_bed/D1.jpeg",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/furniture/floating_bed/D3.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    }
+  ]
+  
+}

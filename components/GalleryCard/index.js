@@ -4,7 +4,7 @@ import Button from "../Button";
 import Link from "next/link";
 import { useTheme } from "next-themes";
 
-const GalleryCard = ({ img, AR_src, w_disp, h_disp, name, linkText, linkURL}) => {
+const GalleryCard = ({ img, AR_src, w_disp, h_disp, name}) => {
 
   const [isModalOpen, setModalOpen] = useState(false);
   const { theme } = useTheme();
@@ -34,18 +34,6 @@ const GalleryCard = ({ img, AR_src, w_disp, h_disp, name, linkText, linkURL}) =>
           height={h_disp}
           sizes="100vw"
         ></Image>
-      </div>
-      <div className="flex items-center justify-center">
-        <h1 className="mt-2 text-xl tablet:text-2xl">
-          {name}
-        </h1>
-      </div>
-      <div className="flex items-center justify-center">
-        <h2 className="mt-2 text-lg tablet:text-xl">
-          <Link href={linkURL}>
-            <a className={theme === "dark" ? "text-link-red" : "text-link-blue"} target="_blank" rel="noopener noreferrer">{linkText}</a>
-          </Link>
-        </h2>
       </div>
 
       {isModalOpen && (

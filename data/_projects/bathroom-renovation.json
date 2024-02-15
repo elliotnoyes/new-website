@@ -1,0 +1,35 @@
+{
+  "date": "2024-03-01",
+  "category": "Construction",
+  "title": "Bathroom Renovation",
+  "description": "description",
+  "coverImage": "/images/projects/construction/bathroom/T1.jpeg",
+  "grid": "grid-cols-4",
+  "imageList": [
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/construction/bathroom/T1.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/construction/bathroom/T2.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/construction/bathroom/T3.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    }
+  ]
+  
+}

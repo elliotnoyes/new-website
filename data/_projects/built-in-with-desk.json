@@ -1,0 +1,84 @@
+{
+  "date": "2024-04-01",
+  "category": "Built-ins",
+  "title": "Built-in w/ Desk",
+  "description": "description",
+  "coverImage": "/images/projects/built-ins/built-in_desk/C2.jpeg",
+  "grid": "grid-cols-4",
+  "imageList": [
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C2.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C3.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C4.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C5.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C6.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C7.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 7,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C8.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 8,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C9.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    },
+    {
+      "id": 9,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/C10.jpeg",
+      "AR_src": 1,
+      "w_disp": 1,
+      "h_disp": 1
+    }
+  ]
+  
+  
+}
