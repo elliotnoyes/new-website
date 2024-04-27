@@ -11,13 +11,13 @@ export const stagger = (targets, speed, fromVars, toVars) => {
   );
 };
 
-export const slide = (target, offset) => {
+export const slide = (target, offset, mobOffset) => {
   return gsap.to(
     target, {
       scrollTrigger: {
         scrub: 1,
       },
-      x: document.documentElement.scrollWidth < 768 ? document.documentElement.scrollWidth - 175 : document.documentElement.scrollWidth - offset,
+      x: document.documentElement.scrollWidth < 768 ? document.documentElement.scrollWidth - mobOffset : document.documentElement.scrollWidth - offset,
     }
   );
 };

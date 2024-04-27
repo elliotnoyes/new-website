@@ -2,33 +2,33 @@
   "date": "2024-05-01",
   "category": "Millwork",
   "title": "Cedar Post",
-  "description": "description",
-  "coverImage": "/images/projects/millwork/cedar_post/V4.jpeg",
-  "grid": "grid-cols-4",
+  "description": "",
+  "coverImage": "/images/projects/millwork/cedar_post/tall1.jpeg",
+  "grid": "grid-cols-3",
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/millwork/cedar_post/V2.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/millwork/cedar_post/tall1.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/millwork/cedar_post/V3.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/millwork/cedar_post/tall2.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/millwork/cedar_post/V4.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/millwork/cedar_post/tall3.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     }
   ]
 }

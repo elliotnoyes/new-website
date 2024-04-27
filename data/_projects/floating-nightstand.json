@@ -1,9 +1,9 @@
 {
-  "date": "2024-01-03",
+  "date": "2024-01-09",
   "category": "Furniture",
   "title": "Floating Nightstand",
-  "description": "description",
-  "coverImage": "/images/projects/furniture/floating_nightstand/B1.jpeg",
+  "description": "",
+  "coverImage": "/images/projects/furniture/floating_nightstand/custom1.jpeg",
   "grid": "grid-cols-4",
   "imageList": [
     {
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide4.jpeg",
+      "image": "/images/projects/furniture/floating_nightstand/wide8.jpeg",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide5.jpeg",
+      "image": "/images/projects/furniture/floating_nightstand/wide4.jpeg",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/B7.jpeg",
+      "image": "/images/projects/furniture/floating_nightstand/wide5.jpeg",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide6.jpeg",
+      "image": "/images/projects/furniture/floating_nightstand/wide10.jpeg",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -73,45 +73,13 @@
     {
       "id": 9,
       "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide7.jpeg",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
-    },
-    {
-      "id": 10,
-      "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide8.jpeg",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
-    },
-    {
-      "id": 11,
-      "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide9.jpeg",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
-    },
-    {
-      "id": 12,
-      "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/wide10.jpeg",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
-    },
-    {
-      "id": 13,
-      "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall1.jpeg",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
     },
     {
-      "id": 14,
+      "id": 10,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall2.jpeg",
       "AR_src": 0.75,
@@ -119,7 +87,7 @@
       "h_disp": 1.33
     },
     {
-      "id": 15,
+      "id": 11,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall3.jpeg",
       "AR_src": 0.75,
@@ -127,7 +95,7 @@
       "h_disp": 1.33
     },
     {
-      "id": 16,
+      "id": 12,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall4.jpeg",
       "AR_src": 0.75,
@@ -135,7 +103,7 @@
       "h_disp": 1.33
     },
     {
-      "id": 17,
+      "id": 13,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall5.jpeg",
       "AR_src": 0.75,
@@ -143,15 +111,7 @@
       "h_disp": 1.33
     },
     {
-      "id": 18,
-      "name": "alt",
-      "image": "/images/projects/furniture/floating_nightstand/tall6.jpeg",
-      "AR_src": 0.75,
-      "w_disp": 1,
-      "h_disp": 1.33
-    },
-    {
-      "id": 19,
+      "id": 14,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall7.jpeg",
       "AR_src": 0.75,
@@ -159,7 +119,7 @@
       "h_disp": 1.33
     },
     {
-      "id": 20,
+      "id": 15,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall8.jpeg",
       "AR_src": 0.75,
@@ -167,7 +127,7 @@
       "h_disp": 1.33
     },
     {
-      "id": 21,
+      "id": 16,
       "name": "alt",
       "image": "/images/projects/furniture/floating_nightstand/tall9.jpeg",
       "AR_src": 0.75,

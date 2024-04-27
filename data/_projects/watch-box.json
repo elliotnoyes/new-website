@@ -2,57 +2,57 @@
   "date": "2024-07-04",
   "category": "Small Projects",
   "title": "Watch Box",
-  "description": "description",
-  "coverImage": "/images/projects/small_projects/watch_box/M1.jpeg",
-  "grid": "grid-cols-4",
+  "description": "",
+  "coverImage": "/images/projects/small_projects/watch_box/tall1.jpeg",
+  "grid": "grid-cols-3",
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/small_projects/watch_box/M1.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/watch_box/tall1.jpeg",
+      "AR_src": 0.84,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.19
     },
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/small_projects/watch_box/M2.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/watch_box/tall2.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/small_projects/watch_box/M3.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/watch_box/tall3.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/small_projects/watch_box/M4.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/watch_box/tall4.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/small_projects/watch_box/M5.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/watch_box/tall5.jpeg",
+      "AR_src": 0.84,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.19
     },
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/small_projects/watch_box/M6.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/watch_box/tall6.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     }
   ]
   

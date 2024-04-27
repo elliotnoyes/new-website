@@ -51,18 +51,38 @@ const ProjectPage = ({ post }) => {
           </p>
         </div>
 
-        <div className={`mt-5 laptop:mt-10 grid grid-cols-1 tablet:${post.grid} gap-4`}>
-        {/* <div className={`mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4`}> */}
-            {post.imageList.map((img) => (
-              <GalleryCard
-              key={img.id}
-              img={img.image}
-              AR_src={img.AR_src}
-              w_disp={img.w_disp}
-              h_disp={img.h_disp}
-            />
-            ))}
-          </div>
+        <div>
+          {Array.isArray(post.grid)
+            ? post.grid.map((cols, idx) => {
+                const start = idx === 0 ? 0 : post.grid.slice(0, idx).reduce((acc, curr) => acc + parseInt(curr.split('-')[2]), 0);
+                const end = start + parseInt(cols.split('-')[2]);
+                return (
+                  <div key={idx} className={`mt-5 laptop:mt-10 grid grid-cols-1 tablet:${cols} gap-4`}>
+                    {post.imageList.slice(start, end).map((img) => (
+                      <GalleryCard
+                        key={img.id}
+                        img={img.image}
+                        AR_src={img.AR_src}
+                        w_disp={img.w_disp}
+                        h_disp={img.h_disp}
+                      />
+                    ))}
+                  </div>
+                );
+              })
+            : <div className={`mt-5 laptop:mt-10 grid grid-cols-1 tablet:${post.grid} gap-4`}>
+                {post.imageList.map((img) => (
+                  <GalleryCard
+                    key={img.id}
+                    img={img.image}
+                    AR_src={img.AR_src}
+                    w_disp={img.w_disp}
+                    h_disp={img.h_disp}
+                  />
+                ))}
+              </div>
+          }
+        </div>
 
         <Footer />
 

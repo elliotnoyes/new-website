@@ -17,7 +17,7 @@ const SimplePageHeader = () => {
   }, []);
 
   useIsomorphicLayoutEffect(() => {
-    slide(".sliding", 220);
+    slide(".sliding", 220, 175);
   }, []);
 
   return (
@@ -32,9 +32,9 @@ const SimplePageHeader = () => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-plane-w.png"
+                src="/images/header/plane-w.png"
                 width={71}
-                height={55}
+                height={56}
                 ></Image>
               )}
           </div>
@@ -43,9 +43,9 @@ const SimplePageHeader = () => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/scaled-plane-b.png"
+              src="/images/header/plane-b.png"
               width={71}
-              height={55}
+              height={56}
               ></Image>
             )}
           </div>
@@ -57,6 +57,7 @@ const SimplePageHeader = () => {
               setTheme(theme === "dark" ? "light" : "dark")
             }
             type="header"
+            classes="mb-2"
           >
             <Image
               alt="darkmode toggle"
@@ -84,9 +85,9 @@ const SimplePageHeader = () => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-plane-w.png"
+                src="/images/header/plane-w.png"
                 width={71}
-                height={55}
+                height={57}
                 ></Image>
               )}
           </div>
@@ -95,9 +96,9 @@ const SimplePageHeader = () => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/scaled-plane-b.png"
+              src="/images/header/plane-b.png"
               width={71}
-              height={55}
+              height={57}
               ></Image>
             )}
           </div>

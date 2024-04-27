@@ -2,137 +2,137 @@
   "date": "2024-07-05",
   "category": "Small Projects",
   "title": "Knitting Box",
-  "description": "description",
-  "coverImage": "/images/projects/small_projects/knitting_box/W11.jpeg",
+  "description": "",
+  "coverImage": "/images/projects/small_projects/knitting_box/tall1.jpeg",
   "grid": "grid-cols-4",
-  "imageList": [
+  "imageList":  [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W1.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall1.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W2.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall2.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W3.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall3.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W4.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall4.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W5.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/wide1.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W6.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/wide2.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 7,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W7.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/wide3.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 8,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W8.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/wide4.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 9,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W9.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall5.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 10,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W10.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall6.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 11,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W11.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall7.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 12,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W12.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall8.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 13,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W13.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall9.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 14,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W14.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall10.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 15,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W15.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall11.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 16,
       "name": "alt",
-      "image": "/images/projects/small_projects/knitting_box/W16.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/small_projects/knitting_box/tall12.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "date": "2023-12-12",
+  "date": "2024-01-06",
   "category": "Furniture",
   "title": "Arts and Crafts Stool",
   "description": "this is the description paragraph",
-  "coverImage": "/images/projects/furniture/ac-stool/I2.jpeg",
+  "coverImage": "/images/projects/furniture/ac-stool/tall1.jpeg",
   "grid": "grid-cols-3",
   "imageList": [
     {
       "id": 1,
       "name": "name",
-      "image": "/images/projects/furniture/ac-stool/I2.jpeg",
+      "image": "/images/projects/furniture/ac-stool/tall1.jpeg",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "name",
-      "image": "/images/projects/furniture/ac-stool/I3.jpeg",
+      "image": "/images/projects/furniture/ac-stool/tall2.jpeg",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "name",
-      "image": "/images/projects/furniture/ac-stool/I4.jpeg",
+      "image": "/images/projects/furniture/ac-stool/tall3.jpeg",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "name",
-      "image": "/images/projects/furniture/ac-stool/I5.jpeg",
+      "image": "/images/projects/furniture/ac-stool/tall4.jpeg",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "name": "name",
-      "image": "/images/projects/furniture/ac-stool/I6.jpeg",
+      "image": "/images/projects/furniture/ac-stool/tall5.jpeg",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "name": "name",
-      "image": "/images/projects/furniture/ac-stool/I7.jpeg",
+      "image": "/images/projects/furniture/ac-stool/custom1.jpeg",
       "AR_src": 0.84,
       "w_disp": 1,
       "h_disp": 1.19

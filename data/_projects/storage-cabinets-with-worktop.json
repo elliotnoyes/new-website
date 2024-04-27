@@ -2,121 +2,105 @@
   "date": "2024-02-02",
   "category": "Cabinetry",
   "title": "Storage Cabinets w/ Worktop",
-  "description": "description",
-  "coverImage": "/images/projects/cabinetry/storage_cabinets/U6.jpeg",
-  "grid": "grid-cols-4",
+  "description": "",
+  "coverImage": "/images/projects/cabinetry/storage_cabinets/wide1.jpeg",
+  "grid": "grid-cols-3",
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U1.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/wide1.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U2.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/wide2.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U3.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/wide3.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U4.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall1.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U5.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall2.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U6.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall3.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 7,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U7.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall4.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 8,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U8.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall5.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 9,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U9.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall6.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 10,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U10.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall8.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 12,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U12.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall9.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 13,
       "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U13.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/storage_cabinets/tall10.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
-    },
-    {
-      "id": 14,
-      "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U14.jpeg",
-      "AR_src": 1,
-      "w_disp": 1,
-      "h_disp": 1
-    },
-    {
-      "id": 15,
-      "name": "alt",
-      "image": "/images/projects/cabinetry/storage_cabinets/U15.jpeg",
-      "AR_src": 1,
-      "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     }
   ]
 }

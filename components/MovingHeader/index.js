@@ -17,7 +17,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
   }, []);
 
   useIsomorphicLayoutEffect(() => {
-    slide(".sliding", 350);
+    slide(".sliding", 350, 160);
   }, []);
 
   return (
@@ -36,9 +36,9 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
                     {mounted && (
                       <Image
                       alt="rover"
-                      src="/images/header/scaled-plane-w.png"
+                      src="/images/header/plane-w.png"
                       width={71}
-                      height={55}
+                      height={56}
                       ></Image>
                     )}
                 </div>
@@ -47,9 +47,9 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
                   {mounted && (
                     <Image
                     alt="rover"
-                    src="/images/header/scaled-plane-b.png"
+                    src="/images/header/plane-b.png"
                     width={71}
-                    height={55}
+                    height={56}
                     ></Image>
                   )}
                 </div>
@@ -93,7 +93,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
             </div>
             <Popover.Panel
               className={`absolute right-0 z-10 w-1/4 p-1 ${
-                theme === "dark" ? "bg-[#262628]" : "bg-[#d5b69d]"
+                theme === "dark" ? "bg-[#262628da]" : "bg-[#d5b69dd7]"
               } shadow-md rounded-md`}
             >
               <div className="grid grid-cols-1 items-center">
@@ -118,9 +118,9 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-plane-w.png"
+                src="/images/header/plane-w.png"
                 width={71}
-                height={55}
+                height={57}
                 ></Image>
               )}
           </div>
@@ -129,9 +129,9 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/scaled-plane-b.png"
+              src="/images/header/plane-b.png"
               width={71}
-              height={55}
+              height={57}
               ></Image>
             )}
           </div>
@@ -147,6 +147,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
             <Button
               onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
               type="header"
+              classes="laptop:mb-2s"
             >
               <Image
                 alt="darkmode toggle"
@@ -156,7 +157,7 @@ const MovingHeader = ({ handleWorkScroll, handleAboutScroll}) => {
               ></Image>
             </Button>
           )}
-          </div>
+        </div>
       </div>
     </>
   );

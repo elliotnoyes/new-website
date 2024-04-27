@@ -21,15 +21,15 @@
     },
     {
       "id": "4",
-      "title": "Restorations",
-      "imageSrc": "/images/covers/restoration.jpeg",
-      "url": "/restorations"
-    },
-    {
-      "id": "5",
       "title": "Construction",
       "imageSrc": "/images/covers/construction.jpeg",
       "url": "/construction"
+    },
+    {
+      "id": "5",
+      "title": "Small Projects",
+      "imageSrc": "/images/covers/smallproj.jpeg",
+      "url": "/small-projects"
     },
     {
       "id": "6",
@@ -39,9 +39,9 @@
     },
     {
       "id": "7",
-      "title": "Small Projects",
-      "imageSrc": "/images/covers/smallproj.jpeg",
-      "url": "/small-projects"
+      "title": "Restorations",
+      "imageSrc": "/images/covers/restoration.jpeg",
+      "url": "/restorations"
     },
     {
       "id": "8",

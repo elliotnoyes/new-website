@@ -17,7 +17,7 @@ const SimplePageHeader = ({ backName }) => {
   }, []);
 
   useIsomorphicLayoutEffect(() => {
-    slide(".sliding", 380);
+    slide(".sliding", 380, 270);
   }, []);
 
   return (
@@ -32,7 +32,7 @@ const SimplePageHeader = ({ backName }) => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-plane-w.png"
+                src="/images/header/plane-w.png"
                 width={71}
                 height={55}
                 ></Image>
@@ -43,7 +43,7 @@ const SimplePageHeader = ({ backName }) => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/scaled-plane-b.png"
+              src="/images/header/plane-b.png"
               width={71}
               height={55}
               ></Image>
@@ -57,6 +57,7 @@ const SimplePageHeader = ({ backName }) => {
               setTheme(theme === "dark" ? "light" : "dark")
             }
             type="header"
+            classes="mb-2"
           >
             <Image
               alt="darkmode toggle"
@@ -68,8 +69,8 @@ const SimplePageHeader = ({ backName }) => {
             ></Image>
           </Button>
 
-          <Button onClick={() => router.push("/")} type="header" classes="ml-0">
-            Home
+          <Button onClick={() => router.push(`/${backName.toLowerCase().replace(/\s+/g, '-')}`)} classes="ml-0" type="header">
+            Back to {backName}
           </Button>
         </div>
       </div>
@@ -84,7 +85,7 @@ const SimplePageHeader = ({ backName }) => {
               {mounted && (
                 <Image
                 alt="rover"
-                src="/images/header/scaled-plane-w.png"
+                src="/images/header/plane-w.png"
                 width={71}
                 height={55}
                 ></Image>
@@ -95,7 +96,7 @@ const SimplePageHeader = ({ backName }) => {
             {mounted && (
               <Image
               alt="rover"
-              src="/images/header/scaled-plane-b.png"
+              src="/images/header/plane-b.png"
               width={71}
               height={55}
               ></Image>

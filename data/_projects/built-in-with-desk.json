@@ -2,81 +2,89 @@
   "date": "2024-04-01",
   "category": "Built-ins",
   "title": "Built-in w/ Desk",
-  "description": "description",
-  "coverImage": "/images/projects/built-ins/built-in_desk/C2.jpeg",
-  "grid": "grid-cols-4",
+  "description": "",
+  "coverImage": "/images/projects/built-ins/built-in_desk/tall1.jpeg",
+  "grid": ["grid-cols-3", "grid-cols-1", "grid-cols-3", "grid-cols-3"],
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C2.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall1.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C3.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall2.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C4.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall5.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C5.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/wide1.jpeg",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 0.75
     },
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C6.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall3.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C7.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall4.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 7,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C8.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall6.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 8,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C9.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall7.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 9,
       "name": "alt",
-      "image": "/images/projects/built-ins/built-in_desk/C10.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/built-ins/built-in_desk/tall8.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
+    },
+    {
+      "id": 10,
+      "name": "alt",
+      "image": "/images/projects/built-ins/built-in_desk/tall9.jpeg",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
     }
   ]
   

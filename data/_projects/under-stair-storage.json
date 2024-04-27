@@ -2,41 +2,41 @@
   "date": "2024-02-01",
   "category": "Cabinetry",
   "title": "Under Stair Storage",
-  "description": "description",
-  "coverImage": "/images/projects/cabinetry/catwall/H1.jpeg",
-  "grid": "grid-cols-4",
+  "description": "",
+  "coverImage": "/images/projects/cabinetry/catwall/tall1.jpeg",
+  "grid": "grid-cols-2",
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/H1.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/catwall/tall1.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/H2.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/catwall/tall2.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/H3.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/catwall/tall3.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     },
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/H4.jpeg",
-      "AR_src": 1,
+      "image": "/images/projects/cabinetry/catwall/tall4.jpeg",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1
+      "h_disp": 1.33
     }
   ]
 }
