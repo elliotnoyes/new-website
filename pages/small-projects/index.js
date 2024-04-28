@@ -26,7 +26,7 @@ const SmProjPage = ({ posts }) => {
   const { theme } = useTheme();
 
   return (
-    <div className={`relative
+    <div className={`relative min-h-screen
     ${theme === "dark" ? "bg-stone-700 text-white" : "bg-stone-200 text-black"}
     `}>
 
