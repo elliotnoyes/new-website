@@ -4,7 +4,7 @@
   "title": "Storage Cabinets w/ Worktop",
   "description": "",
   "coverImage": "/images/projects/cabinetry/storage_cabinets/wide1.jpeg",
-  "grid": "grid-cols-3",
+  "grid": [3, 3, 3, 3],
   "imageList": [
     {
       "id": 1,

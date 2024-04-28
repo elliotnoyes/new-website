@@ -4,7 +4,7 @@
   "title": "Knitting Box",
   "description": "",
   "coverImage": "/images/projects/small_projects/knitting_box/tall1.jpeg",
-  "grid": "grid-cols-4",
+  "grid": [4, 4, 4, 4],
   "imageList":  [
     {
       "id": 1,

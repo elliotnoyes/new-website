@@ -4,7 +4,7 @@
   "title": "Display Case",
   "description": "",
   "coverImage": "/images/projects/built-ins/display_case/tall1.jpeg",
-  "grid": "grid-cols-4",
+  "grid": [4, 4, 4, 4, 4],
   "imageList": [
     {
       "id": 1,

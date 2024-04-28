@@ -4,7 +4,7 @@
   "title": "title",
   "description": "description",
   "coverImage": "/images/projects/",
-  "grid": "grid-cols-4",
+  "grid": [4],
   "imageList": [
     {
       "id": 1,

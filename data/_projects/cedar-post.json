@@ -4,7 +4,7 @@
   "title": "Cedar Post",
   "description": "",
   "coverImage": "/images/projects/millwork/cedar_post/tall1.jpeg",
-  "grid": "grid-cols-3",
+  "grid": [3],
   "imageList": [
     {
       "id": 1,

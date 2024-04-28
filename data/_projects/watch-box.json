@@ -4,7 +4,7 @@
   "title": "Watch Box",
   "description": "",
   "coverImage": "/images/projects/small_projects/watch_box/tall1.jpeg",
-  "grid": "grid-cols-3",
+  "grid": [3, 3],
   "imageList": [
     {
       "id": 1,

@@ -59,7 +59,7 @@ export default function Home() {
       />
 
       <div className="container mx-auto">
-        <div className="flex mt-2 tablet:mt-10 justify-center">
+        <div className="flex mt-4 tablet:mt-10 justify-center">
           <div>
             <h1
               ref={textOne}
@@ -85,7 +85,7 @@ export default function Home() {
         </div>
 
 
-        <div className="mt-10 laptop:mt-10 p-2 laptop:p-1" ref={aboutRef}>
+        <div className="mt-6 laptop:mt-10 p-2 laptop:p-1" ref={aboutRef}>
         <About />
         </div>
 

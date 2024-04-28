@@ -4,7 +4,7 @@
   "title": "Arts and Crafts Stool",
   "description": "this is the description paragraph",
   "coverImage": "/images/projects/furniture/ac-stool/tall1.jpeg",
-  "grid": "grid-cols-3",
+  "grid": [3, 3],
   "imageList": [
     {
       "id": 1,

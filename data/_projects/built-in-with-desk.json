@@ -4,7 +4,7 @@
   "title": "Built-in w/ Desk",
   "description": "",
   "coverImage": "/images/projects/built-ins/built-in_desk/tall1.jpeg",
-  "grid": ["grid-cols-3", "grid-cols-1", "grid-cols-3", "grid-cols-3"],
+  "grid": [3, 1, 3, 3],
   "imageList": [
     {
       "id": 1,

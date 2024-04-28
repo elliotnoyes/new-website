@@ -4,7 +4,7 @@
   "title": "Sewing Table",
   "description": "",
   "coverImage": "/images/projects/furniture/sewing_table/wide1.jpeg",
-  "grid": "grid-cols-4",
+  "grid": [4, 4, 4, 4],
   "imageList": [
     {
       "id": 1,

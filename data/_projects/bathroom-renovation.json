@@ -4,7 +4,7 @@
   "title": "Bathroom Renovation",
   "description": "",
   "coverImage": "/images/projects/construction/bathroom/tall1.jpeg",
-  "grid": "grid-cols-2",
+  "grid": [2],
   "imageList": [
     {
       "id": 1,

@@ -4,7 +4,7 @@
   "title": "3D Printing Bench w/ Uppers",
   "description": "",
   "coverImage": "/images/projects/in_progress/print_bench/wide1.jpeg",
-  "grid": "grid-cols-3",
+  "grid": [3],
   "imageList": [
     {
       "id": 1,

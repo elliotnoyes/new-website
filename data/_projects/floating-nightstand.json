@@ -4,7 +4,7 @@
   "title": "Floating Nightstand",
   "description": "",
   "coverImage": "/images/projects/furniture/floating_nightstand/custom1.jpeg",
-  "grid": "grid-cols-4",
+  "grid": [4, 4, 4, 4],
   "imageList": [
     {
       "id": 1,

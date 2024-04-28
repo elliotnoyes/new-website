@@ -4,7 +4,7 @@
   "title": "Utensil Divider",
   "description": "",
   "coverImage": "/images/projects/small_projects/utensil_divider/tall1.jpeg",
-  "grid": "grid-cols-2",
+  "grid": [2, 2],
   "imageList": [
     {
       "id": 1,
