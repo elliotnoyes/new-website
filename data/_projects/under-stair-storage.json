@@ -3,13 +3,13 @@
   "category": "Cabinetry",
   "title": "Under Stair Storage",
   "description": "",
-  "coverImage": "/images/projects/cabinetry/catwall/tall1.jpeg",
+  "coverImage": "/images/projects/cabinetry/catwall/tall1.webp",
   "grid": [2, 2],
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/tall1.jpeg",
+      "image": "/images/projects/cabinetry/catwall/tall1.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/tall2.jpeg",
+      "image": "/images/projects/cabinetry/catwall/tall2.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/tall3.jpeg",
+      "image": "/images/projects/cabinetry/catwall/tall3.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/cabinetry/catwall/tall4.jpeg",
+      "image": "/images/projects/cabinetry/catwall/tall4.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33

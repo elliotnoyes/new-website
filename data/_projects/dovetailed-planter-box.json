@@ -3,13 +3,13 @@
   "category": "Small Projects",
   "title": "Dovetailed Planter Box",
   "description": "",
-  "coverImage": "/images/projects/small_projects/planter/tall1.jpeg",
+  "coverImage": "/images/projects/small_projects/planter/tall1.webp",
   "grid": [3, 3],
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/small_projects/planter/tall1.jpeg",
+      "image": "/images/projects/small_projects/planter/tall1.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/small_projects/planter/tall2.jpeg",
+      "image": "/images/projects/small_projects/planter/tall2.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/small_projects/planter/tall3.jpeg",
+      "image": "/images/projects/small_projects/planter/tall3.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/small_projects/planter/tall4.jpeg",
+      "image": "/images/projects/small_projects/planter/tall4.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/small_projects/planter/tall5.jpeg",
+      "image": "/images/projects/small_projects/planter/tall5.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/small_projects/planter/wide1.jpeg",
+      "image": "/images/projects/small_projects/planter/wide1.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75

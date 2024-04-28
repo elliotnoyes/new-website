@@ -4,49 +4,49 @@
     {
       "id": "1",
       "title": "Furniture",
-      "imageSrc": "/images/covers/furniture.jpeg",
+      "imageSrc": "/images/covers/furniture.webp",
       "url": "/furniture"
     },
     {
       "id": "2",
       "title": "Built-ins",
-      "imageSrc": "/images/covers/builtin.jpeg",
+      "imageSrc": "/images/covers/builtin.webp",
       "url": "/built-ins"
     },
     {
       "id": "3",
       "title": "Cabinetry",
-      "imageSrc": "/images/covers/cabinetry.jpeg",
+      "imageSrc": "/images/covers/cabinetry.webp",
       "url": "/cabinetry"
     },
     {
       "id": "4",
       "title": "Construction",
-      "imageSrc": "/images/covers/construction.jpeg",
+      "imageSrc": "/images/covers/construction.webp",
       "url": "/construction"
     },
     {
       "id": "5",
       "title": "Small Projects",
-      "imageSrc": "/images/covers/smallproj.jpeg",
+      "imageSrc": "/images/covers/smallproj.webp",
       "url": "/small-projects"
     },
     {
       "id": "6",
       "title": "Millwork",
-      "imageSrc": "/images/covers/millwork.jpeg",
+      "imageSrc": "/images/covers/millwork.webp",
       "url": "/millwork"
     },
     {
       "id": "7",
       "title": "Restorations",
-      "imageSrc": "/images/covers/restoration.jpeg",
+      "imageSrc": "/images/covers/restoration.webp",
       "url": "/restorations"
     },
     {
       "id": "8",
       "title": "In Progress",
-      "imageSrc": "/images/covers/inprogress.jpeg",
+      "imageSrc": "/images/covers/inprogress.webp",
       "url": "/in-progress"
     }
   ]

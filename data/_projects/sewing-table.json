@@ -3,13 +3,13 @@
   "category": "Furniture",
   "title": "Sewing Table",
   "description": "",
-  "coverImage": "/images/projects/furniture/sewing_table/wide1.jpeg",
+  "coverImage": "/images/projects/furniture/sewing_table/wide1.webp",
   "grid": [4, 4, 4, 4],
   "imageList": [
     {
       "id": 1,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall1.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall1.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall2.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall2.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall3.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall3.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall4.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall4.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall5.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall5.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall6.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall6.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall7.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall7.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall9.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall9.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -73,7 +73,7 @@
     {
       "id": 9,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall10.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall10.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -81,7 +81,7 @@
     {
       "id": 10,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall11.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall11.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -89,7 +89,7 @@
     {
       "id": 11,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall12.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall12.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -97,7 +97,7 @@
     {
       "id": 12,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall13.jpeg",
+      "image": "/images/projects/furniture/sewing_table/tall13.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -105,7 +105,7 @@
     {
       "id": 13,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/custom1.jpeg",
+      "image": "/images/projects/furniture/sewing_table/custom1.webp",
       "AR_src": 0.58,
       "w_disp": 1,
       "h_disp": 1.72
@@ -113,7 +113,7 @@
     {
       "id": 14,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/wide1.jpeg",
+      "image": "/images/projects/furniture/sewing_table/wide1.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -121,7 +121,7 @@
     {
       "id": 15,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/wide2.jpeg",
+      "image": "/images/projects/furniture/sewing_table/wide2.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -129,7 +129,7 @@
     {
       "id": 16,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/wide3.jpeg",
+      "image": "/images/projects/furniture/sewing_table/wide3.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75

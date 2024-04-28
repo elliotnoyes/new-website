@@ -16,7 +16,7 @@ const About = ({}) => {
         <Image
             alt={"profile picture"}
             className="flex rounded-lg"
-            src={"/images/profile_pic.jpeg"}
+            src={"/images/profile_pic.webp"}
             width={400}
             height={400}
             priority={true}

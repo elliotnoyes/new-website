@@ -3,13 +3,13 @@
   "category": "In Progress",
   "title": "3D Printing Bench w/ Uppers",
   "description": "",
-  "coverImage": "/images/projects/in_progress/print_bench/wide1.jpeg",
+  "coverImage": "/images/projects/in_progress/print_bench/wide1.webp",
   "grid": [3],
   "imageList": [
     {
       "id": 1,
       "name": "name",
-      "image": "/images/projects/in_progress/print_bench/wide1.jpeg",
+      "image": "/images/projects/in_progress/print_bench/wide1.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "name",
-      "image": "/images/projects/in_progress/print_bench/wide2.jpeg",
+      "image": "/images/projects/in_progress/print_bench/wide2.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "name",
-      "image": "/images/projects/in_progress/print_bench/wide3.jpeg",
+      "image": "/images/projects/in_progress/print_bench/wide3.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75

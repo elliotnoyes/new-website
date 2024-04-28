@@ -3,13 +3,13 @@
   "category": "Built-ins",
   "title": "Display Case",
   "description": "",
-  "coverImage": "/images/projects/built-ins/display_case/tall1.jpeg",
+  "coverImage": "/images/projects/built-ins/display_case/tall1.webp",
   "grid": [4, 4, 4, 4, 4],
   "imageList": [
     {
       "id": 1,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall1.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall1.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall2.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall2.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall3.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall3.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall4.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall4.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -41,7 +41,7 @@
     {
       "id": 5,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide1.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide1.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -49,7 +49,7 @@
     {
       "id": 6,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide2.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide2.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -57,7 +57,7 @@
     {
       "id": 7,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide3.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide3.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -65,7 +65,7 @@
     {
       "id": 8,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide4.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide4.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -73,7 +73,7 @@
     {
       "id": 9,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall5.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall5.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -81,7 +81,7 @@
     {
       "id": 10,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall6.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall6.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -89,7 +89,7 @@
     {
       "id": 11,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall7.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall7.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -97,7 +97,7 @@
     {
       "id": 12,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall8.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall8.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -105,7 +105,7 @@
     {
       "id": 13,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide5.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide5.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -113,7 +113,7 @@
     {
       "id": 14,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide6.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide6.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -121,7 +121,7 @@
     {
       "id": 15,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide7.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide7.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -129,7 +129,7 @@
     {
       "id": 16,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/wide8.jpeg",
+      "image": "/images/projects/built-ins/display_case/wide8.webp",
       "AR_src": 1.33,
       "w_disp": 1,
       "h_disp": 0.75
@@ -137,7 +137,7 @@
     {
       "id": 17,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall9.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall9.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -145,7 +145,7 @@
     {
       "id": 18,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall10.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall10.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -153,7 +153,7 @@
     {
       "id": 19,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall11.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall11.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
@@ -161,7 +161,7 @@
     {
       "id": 20,
       "name": "alt",
-      "image": "/images/projects/built-ins/display_case/tall12.jpeg",
+      "image": "/images/projects/built-ins/display_case/tall12.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33
