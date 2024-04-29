@@ -34,7 +34,7 @@ const SimplePageHeader = ({ backName }) => {
                 alt="rover"
                 src="/images/header/plane-w.png"
                 width={71}
-                height={58}
+                height={57}
                 ></Image>
               )}
           </div>
@@ -45,7 +45,7 @@ const SimplePageHeader = ({ backName }) => {
               alt="rover"
               src="/images/header/plane-b.png"
               width={71}
-              height={58}
+              height={57}
               ></Image>
             )}
           </div>
