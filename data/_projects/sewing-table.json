@@ -2,9 +2,11 @@
   "date": "2024-01-10",
   "category": "Furniture",
   "title": "Sewing Table",
+  "materials": "African Mahogany, Walnut, Maple",
+  "features": "Half-Blind Dovetails, Coved Needle Tray, Thread Spool Rack, Adjustable Dowel Pins",
   "description": "",
   "coverImage": "/images/projects/furniture/sewing_table/wide1.webp",
-  "grid": [4, 4, 4, 4],
+  "grid": [4, 3, 3, 4, 4],
   "imageList": [
     {
       "id": 1,
@@ -63,12 +65,28 @@
       "h_disp": 1.33
     },
     {
-      "id": 8,
+      "id": 14,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/tall9.webp",
-      "AR_src": 0.75,
+      "image": "/images/projects/furniture/sewing_table/wide1.webp",
+      "AR_src": 1.33,
       "w_disp": 1,
-      "h_disp": 1.33
+      "h_disp": 0.75
+    },
+    {
+      "id": 15,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/wide2.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 16,
+      "name": "name",
+      "image": "/images/projects/furniture/sewing_table/wide3.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
     },
     {
       "id": 9,
@@ -103,36 +121,12 @@
       "h_disp": 1.33
     },
     {
-      "id": 13,
+      "id": 8,
       "name": "name",
-      "image": "/images/projects/furniture/sewing_table/custom1.webp",
-      "AR_src": 0.58,
+      "image": "/images/projects/furniture/sewing_table/tall9.webp",
+      "AR_src": 0.75,
       "w_disp": 1,
-      "h_disp": 1.72
-    },
-    {
-      "id": 14,
-      "name": "name",
-      "image": "/images/projects/furniture/sewing_table/wide1.webp",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
-    },
-    {
-      "id": 15,
-      "name": "name",
-      "image": "/images/projects/furniture/sewing_table/wide2.webp",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
-    },
-    {
-      "id": 16,
-      "name": "name",
-      "image": "/images/projects/furniture/sewing_table/wide3.webp",
-      "AR_src": 1.33,
-      "w_disp": 1,
-      "h_disp": 0.75
+      "h_disp": 1.33
     }
   ]
   

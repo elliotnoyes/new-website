@@ -2,7 +2,9 @@
   "date": "2024-01-06",
   "category": "Furniture",
   "title": "Arts and Crafts Stool",
-  "description": "this is the description paragraph",
+  "materials": "Maple, Vinyl Leather",
+  "features": "Curved Backrest, Foot Bar, Integral Signs in Backslats",
+  "description": "",
   "coverImage": "/images/projects/furniture/ac-stool/tall1.webp",
   "grid": [3, 3],
   "imageList": [

@@ -45,6 +45,12 @@
     },
     {
       "id": "8",
+      "title": "HVP Work",
+      "imageSrc": "/images/covers/hvp-work.webp",
+      "url": "/hvp-work"
+    },
+    {
+      "id": "9",
       "title": "In Progress",
       "imageSrc": "/images/covers/inprogress.webp",
       "url": "/in-progress"

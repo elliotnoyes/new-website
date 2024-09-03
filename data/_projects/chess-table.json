@@ -2,6 +2,8 @@
   "date": "2024-01-05",
   "category": "Furniture",
   "title": "Chess Table",
+  "materials": "Maple, Walnut, Pau Ferro",
+  "features": "Box Joints",
   "description": "",
   "coverImage": "/images/projects/furniture/chess_table/tall1.webp",
   "grid": [2],

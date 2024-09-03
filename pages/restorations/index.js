@@ -71,6 +71,8 @@ export async function getStaticProps() {
     "date",
     "category",
     "title",
+    "materials",
+    "features",
     "description",
     "coverImage",
     "grid",

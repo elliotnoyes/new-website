@@ -1,10 +1,11 @@
 {
-  "date": "2024-05-01",
+  "date": "2024-01-06",
   "category": "Millwork",
+  "materials": "Western Red Cedar",
+  "features": "Chamfered Edge Detail, Bottom Cove Moulding, Flag Holder",
   "title": "Cedar Post",
-  "description": "",
   "coverImage": "/images/projects/millwork/cedar_post/tall1.webp",
-  "grid": [3],
+  "grid": [4,4,3],
   "imageList": [
     {
       "id": 1,
@@ -26,6 +27,70 @@
       "id": 3,
       "name": "alt",
       "image": "/images/projects/millwork/cedar_post/tall3.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall4.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall5.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall6.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 7,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall7.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 8,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall8.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 9,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall9.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 10,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall10.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 11,
+      "name": "alt",
+      "image": "/images/projects/millwork/cedar_post/tall11.webp",
       "AR_src": 0.75,
       "w_disp": 1,
       "h_disp": 1.33

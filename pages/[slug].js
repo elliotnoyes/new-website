@@ -51,13 +51,31 @@ const ProjectPage = ({ post }) => {
           </div>
         </div>
 
-
-        <div className="flex justify-center mt-4 p-2 laptop:p-1">
-          <p className="tablet:w-2/3 m-6 text-sm laptop:text-lg">
-          {post.description}
+        {post.materials && (
+        <div className="flex items-center tablet:justify-center mt-4 p-2 laptop:p-1">
+          <p className="tablet:w-2/3 text-sm laptop:text-lg">
+            <span className="text-base laptop:text-2xl">Materials:</span> {post.materials}
           </p>
         </div>
+        )}
 
+        {post.features && (
+        <div className="flex items-center tablet:justify-center p-2 laptop:p-1">
+          <p className="tablet:w-2/3 text-sm laptop:text-lg">
+            <span className="text-base laptop:text-2xl">Features:</span> {post.features}
+          </p>
+        </div>
+        )}
+
+
+        {post.description && (
+          <div className="flex items-center tablet:justify-center p-2 laptop:p-1">
+            <p className="tablet:w-2/3 text-sm laptop:text-lg">
+              <span className="text-base laptop:text-2xl">Description:</span> {post.description}
+            </p>
+          </div>
+        )}
+        
         <div>
           {post.grid.map((cols, idx) => {
             const start = idx === 0 ? 0 : post.grid.slice(0, idx).reduce((acc, curr) => acc + curr, 0);
@@ -125,6 +143,8 @@ export async function getStaticProps({ params }) {
     "date",
     "category",
     "title",
+    "materials",
+    "features",
     "description",
     "coverImage",
     "grid",

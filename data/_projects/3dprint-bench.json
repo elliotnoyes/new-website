@@ -1,0 +1,140 @@
+{
+  "date": "2024-08-11",
+  "category": "Cabinetry",
+  "title": "3D Printing Bench w/ Uppers",
+  "materials": "Prefinished Maple Plywood, MDF, Maple, Laminate",
+  "features": "Pull-Out Trash Can, Dog Food Storage, 3D Printer Encloser, PLA Storage ",
+  "description": "",
+  "coverImage": "/images/projects/cabinetry/3dprint_bench/wide1.webp",
+  "grid": [3,4,4,3,3],
+  "imageList": [
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide1.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide2.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide3.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall1.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall3.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall4.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall5.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall6.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 7,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall7.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 8,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall8.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 9,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/tall9.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide4.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide5.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide6.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 7,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide7.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 8,
+      "name": "alt",
+      "image": "/images/projects/cabinetry/3dprint_bench/wide8.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    }
+  ]
+}

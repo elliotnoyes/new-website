@@ -2,8 +2,10 @@
   "date": "2024-03-02",
   "category": "Construction",
   "title": "Office Shed",
+  "materials": "",
+  "features": "Board and Batten Siding, Lean-To Roof, Spray Foam Insulation, Concrete Pier Foundation",
   "description": "",
-  "coverImage": "/images/projects/construction/shed/wide1.webp",
+  "coverImage": "/images/projects/construction/shed/tall1.webp",
   "grid": [3, 3, 1],
   "imageList": [
     {

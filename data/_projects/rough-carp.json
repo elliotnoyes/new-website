@@ -1,0 +1,121 @@
+{
+  "date": "2023-10-16",
+  "category": "HVP Work",
+  "title": "Rough Carpentry",
+  "coverImage": "/images/projects/hvp-work/rough-carp/wide1.webp",
+  "grid": [2,4,3,3,4],
+  "imageList": [
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide1.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide2.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 1,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/tall1.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 2,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/tall2.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/tall3.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/tall4.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 3,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide3.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 4,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide4.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide5.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide6.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 7,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide7.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 8,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/wide8.webp",
+      "AR_src": 1.33,
+      "w_disp": 1,
+      "h_disp": 0.75
+    },
+    {
+      "id": 5,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/tall5.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    },
+    {
+      "id": 6,
+      "name": "alt",
+      "image": "/images/projects/hvp-work/rough-carp/tall6.webp",
+      "AR_src": 0.75,
+      "w_disp": 1,
+      "h_disp": 1.33
+    }
+  ]
+}
