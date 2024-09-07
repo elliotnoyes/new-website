@@ -6,7 +6,7 @@ import { stagger } from "../animations";
 import { useTheme } from "next-themes";
 import CustomHead from "../components/CustomHead";
 import ProjectPageHeader from "../components/ProjectPageHeader";
-import GalleryCard from "../components/GalleryCard";
+import GalleryCard from "../components/GalleryCardX";
 
 const ProjectPage = ({ post }) => {
 
@@ -95,39 +95,6 @@ const ProjectPage = ({ post }) => {
             );
           })}
         </div>
-
-        {/* <div>
-          {Array.isArray(post.grid)
-            ? post.grid.map((cols, idx) => {
-                const start = idx === 0 ? 0 : post.grid.slice(0, idx).reduce((acc, curr) => acc + curr, 0);
-                const end = start + cols;
-                return (
-                  <div key={idx} className={`mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-${cols} gap-4`}>
-                    {post.imageList.slice(start, end).map((img) => (
-                      <GalleryCard
-                        key={img.id}
-                        img={img.image}
-                        AR_src={img.AR_src}
-                        w_disp={img.w_disp}
-                        h_disp={img.h_disp}
-                      />
-                    ))}
-                  </div>
-                );
-              })
-            : (<div className={`mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-${post.grid} gap-4`}>
-                {post.imageList.map((img) => (
-                  <GalleryCard
-                    key={img.id}
-                    img={img.image}
-                    AR_src={img.AR_src}
-                    w_disp={img.w_disp}
-                    h_disp={img.h_disp}
-                  />
-                ))}
-              </div>)
-          }
-        </div> */}
 
         <Footer />
 
